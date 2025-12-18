@@ -1,0 +1,5 @@
+{
+  "version": "2.1.0",
+  "url": "https://example.com/downloads/app-2.1.0.msi",
+  "releaseNotes": "Исправлено: баг в сохранении данных."
+}
