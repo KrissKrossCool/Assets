@@ -1,6 +1,6 @@
 {
-  "version": "6.9.2",
+  "version": "6.9.3",
   "versionName": "Симфония Свойств",
   "url": "https://disk.yandex.ru/d/1xjOLYmJQxQm9A",
-  "releaseNotes": "Улучшение производительности\nУстранение ошибок"
+  "releaseNotes": "Восстановлена работа таймера\nв панели Копирования"
 }
